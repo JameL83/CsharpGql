@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{CC4DFEAD-16A9-40C8-A7C4-46637210B7A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.RealEstateManager.Types FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RealEstateManager.Database FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RealEstateManager.DataAccess FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RealEstateManager.Utilities FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RealEstateManager FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
